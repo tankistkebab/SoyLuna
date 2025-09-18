@@ -24,7 +24,8 @@ typedef enum Command {
 typedef enum Block {
 	EMPTY,
 	PLAYER,
-	BLOCK
+	BLOCK,
+	QUESTION
 }Block;
 
 void InitGame();

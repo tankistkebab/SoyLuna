@@ -1,1 +1,2 @@
 D:\Visual Studio\Projects\SoyLuna\SoyLuna\x64\Debug\SoyLuna.vcxproj.Up2Date
+C:\Users\alexa\source\repos\Druidull25\SoyLuna\SoyLuna\x64\Debug\SoyLuna.vcxproj.Up2Date
